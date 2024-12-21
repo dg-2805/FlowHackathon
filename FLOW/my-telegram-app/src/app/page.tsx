@@ -1,4 +1,4 @@
-import Image from "next/image";
+//import Image from "next/image";
 import DisplayUser from '@/components/DisplayUser';
 export default function Home() {
   return (
